@@ -24,7 +24,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,react,nodejs,git,github,vscode,linux" alt="Skills" />
+<img src=https://skills.syvixor.com/api/icons?perline=8&i=python,cpp,c,html,css3,tailwindcss,nextjs,typescript,javascript,reactjs,reactnative,vite,mysql,postgresql,mongodb,expressjs,nodejs,replit,postman,googlecloud,amazonwebservices,googlecolaboratory,tensorflow,pytorch,jupyter,anaconda,fastapi,flask,opencv,streamlit,docker,discord,git,gitbash,githubcopilot,github,githubpages,githubactions,markdown,netlify,linux,kalilinux,npm,yarn,powershell,curl,cloudflare,jenkins,golang,canva,gemini>
 </p>
 
 ---
