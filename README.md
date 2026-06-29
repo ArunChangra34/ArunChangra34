@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/ArunChangra34">
-    <img src="https://komarev.com/ghpvc/?username=ArunChangra34&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/arunchangra34">
+    <img src="https://komarev.com/ghpvc/?username=arunchangra34&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -32,14 +32,12 @@
 ### 📊 GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArunChangra34&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Arun's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunChangra34&theme=tokyonight&hide_border=true&background=0D1117" alt="Arun's GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arunchangra34&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunchangra34&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunChangra34&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunchangra34&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -47,7 +45,7 @@
 ### ⚔️ LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/rokket?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/rokket?theme=dark&font=Syne" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -56,8 +54,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArunChangra34/ArunChangra34/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArunChangra34/ArunChangra34/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArunChangra34/ArunChangra34/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arunchangra34/ArunChangra34/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arunchangra34/ArunChangra34/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arunchangra34/ArunChangra34/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
